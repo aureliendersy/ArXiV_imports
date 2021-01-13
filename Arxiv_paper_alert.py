@@ -18,7 +18,7 @@ from email.mime.text import MIMEText
 from email_credentials import personal_mail, mail_password
 
 #
-send_email = False
+send_email = True
 
 # Choice of category
 
